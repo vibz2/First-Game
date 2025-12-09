@@ -73,11 +73,11 @@ It was very daunting at first trying to learn how to make my first game. However
 
 ### Key Takeaways:
 
-- ✅ **Moving Platforms**: Implemented platforms with their own animations
-- ✅ **Godot Interface**: Learned the basics of the Godot Engine interface
-- ✅ **Interactive Platforms**: Made platforms respond to player actions (this was *so* challenging!)
-- ✅ **Level Design**: Designed game settings using tile maps
-- ✅ **Game Logic**: Added functions to supplement coin collection mechanics
+- **Moving Platforms**: Implemented platforms with their own animations
+- **Godot Interface**: Learned the basics of the Godot Engine interface
+- **Interactive Platforms**: Made platforms respond to player actions (this was *so* challenging!)
+- **Level Design**: Designed game settings using tile maps
+- **Game Logic**: Added functions to supplement coin collection mechanics
 
 This entire experience really taught me a lot, which I am planning to use to make even more mini games, to eventually build the skills to make my own full-time game!
 
@@ -85,10 +85,10 @@ This entire experience really taught me a lot, which I am planning to use to mak
 
 ## Challenges Overcome
 
-- 🔧 **One-way Platforms**: Implementing platforms that players can jump through from below
-- 🎬 **Animation System**: Getting animations to work based on player mechanics
-- 🏃 **Character Animation**: Animating the players and enemies for different movements and situations
-- 💫 **Coin System**: Adding functions to handle coin disappearing effects
+- **One-way Platforms**: Implementing platforms that players can jump through from below
+- **Animation System**: Getting animations to work based on player mechanics
+- **Character Animation**: Animating the players and enemies for different movements and situations
+- **Coin System**: Adding functions to handle coin disappearing effects
 
 ---
 
