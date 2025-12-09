@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://bc15lqmr2epno"]
+
+[ext_resource type="Texture2D" uid="uid://cx12ih83cat7m" path="res://assets/sprites/world_tileset.png" id="1_7ct4w"]
+
+[node name="Bridge" type="StaticBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(0, -1)
+texture = ExtResource("1_7ct4w")
+region_enabled = true
+region_rect = Rect2(144, 0, 49, 12)
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-24, -7, -2, -4, 8, -4, 23, -7, 23, 0, -24, 0)
+one_way_collision = true
