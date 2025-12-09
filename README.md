@@ -1,11 +1,13 @@
-[Platformer Knight]
+Platformer Knight
+
 A 2D pixel-art platformer built with Godot Engine 4.x
+
 🎮 About The Game
-[You are a simple yet humble knight: THE MANGO DESTROYER. Don't ask them why
+You are a simple yet humble knight: THE MANGO DESTROYER. Don't ask them why
 their title is that, just know that they destroy mangoes! In the game you shall
 navigate different platforms collect more coins to hopefully buy a mango
 and vanquish it in another sequel. There are hidden parts and even a mighty
-slime to avoid!]
+slime to avoid!
 
 ✨ Features
 Pressure Plate Mechanics: Dynamic platforms that rise and fall based on player interaction
