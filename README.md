@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 About The Game
+## About The Game
 
 You are a simple yet humble knight: **THE MANGO DESTROYER**. Don't ask them why their title is that, just know that they destroy mangoes! 
 
@@ -12,21 +12,21 @@ In this game, you'll navigate treacherous platforms and collect coins to hopeful
 
 ---
 
-## ✨ Features
+## Features
 
-🎯 **Pressure Plate Mechanics** - Dynamic platforms that rise and fall based on player interaction
+**Pressure Plate Mechanics** - Dynamic platforms that rise and fall based on player interaction
 
-🔄 **Moving Platforms** - Constantly moving platforms that challenge your timing and precision
+**Moving Platforms** - Constantly moving platforms that challenge your timing and precision
 
-💰 **Collectibles** - Coins scattered throughout the level waiting to be collected
+**Collectibles** - Coins scattered throughout the level waiting to be collected
 
-🔍 **Hidden Areas** - Secret places lost to time, only found through bravery and exploration
+**Hidden Areas** - Secret places lost to time, only found through bravery and exploration
 
-👾 **Enemy Encounters** - Face off against a mighty slime. Will you survive his onslaught?
+**Enemy Encounters** - Face off against a mighty slime. Will you survive his onslaught?
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 | Action | Keys |
 |--------|------|
@@ -35,7 +35,7 @@ In this game, you'll navigate treacherous platforms and collect coins to hopeful
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1145" height="638" alt="Platformer Knight Gameplay 1" src="https://github.com/user-attachments/assets/44af6f75-cf4d-4958-9db4-728558ae7050" />
 
@@ -50,7 +50,7 @@ In this game, you'll navigate treacherous platforms and collect coins to hopeful
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Engine**: Godot 4.4.1
 - **Language**: GDScript
@@ -59,13 +59,13 @@ In this game, you'll navigate treacherous platforms and collect coins to hopeful
 
 ---
 
-## 🚀 How to Play
+## How to Play
 
 Simply download **`First Game.exe`**, run it, and you're ready to play!
 
 ---
 
-## 🎓 What I Learned
+## What I Learned
 
 It was very daunting at first trying to learn how to make my first game. However, with YouTube tutorials and guides online, I managed to do it! 
 
@@ -83,7 +83,7 @@ This entire experience really taught me a lot, which I am planning to use to mak
 
 ---
 
-## 🐛 Challenges Overcome
+## Challenges Overcome
 
 - 🔧 **One-way Platforms**: Implementing platforms that players can jump through from below
 - 🎬 **Animation System**: Getting animations to work based on player mechanics
@@ -92,19 +92,19 @@ This entire experience really taught me a lot, which I am planning to use to mak
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Vibhas Ramani**
 
 ---
 
-## 📧 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vibhas-ramani)
 
 ---
 
-## 🙏 Credits
+## Credits
 
 - **Asset Bundle**: [Brackeys Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle)
 - **Music & SFX**: Brackeys, Sofia Thirslund, Asbjørn Thirslund
@@ -115,6 +115,6 @@ This entire experience really taught me a lot, which I am planning to use to mak
 
 ⭐ **If you enjoyed this game, please consider giving it a star!** ⭐
 
-*Made with ❤️ using Godot Engine*
+*Made with Godot Engine*
 
 </div>
