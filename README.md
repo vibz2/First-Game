@@ -43,7 +43,7 @@ In this game, you'll navigate treacherous platforms and collect coins to hopeful
 
 ---
 
-## 🎵 Audio
+## Audio
 
 - **Music**: Brackeys, Sofia Thirslund
 - **Sound Effects**: Brackeys, Asbjørn Thirslund
